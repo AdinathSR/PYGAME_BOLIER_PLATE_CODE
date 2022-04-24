@@ -1,0 +1,8 @@
+Licence.txt
+setup.py
+pygameUtilsforlazypeople.egg-info/PKG-INFO
+pygameUtilsforlazypeople.egg-info/SOURCES.txt
+pygameUtilsforlazypeople.egg-info/dependency_links.txt
+pygameUtilsforlazypeople.egg-info/requires.txt
+pygameUtilsforlazypeople.egg-info/top_level.txt
+pygameUtilslazy/__init__.py
